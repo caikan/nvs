@@ -2,8 +2,9 @@
 	"aliases": {
 	},
 	"remotes": {
-		"default": "node",
+		"default": "taobao",
+		"taobao": "https://npm.taobao.org/mirrors/node/",
 		"node": "https://nodejs.org/dist/"
 	},
-	"bootstrap": "node/12.21.0"
+	"bootstrap": "taobao/12.21.0"
 }
