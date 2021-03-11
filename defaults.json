@@ -3,7 +3,7 @@
 	},
 	"remotes": {
 		"default": "node",
-		"node": "https://nodejs.org/dist/"
+		"node": "https://npm.taobao.org/mirrors/node/"
 	},
 	"bootstrap": "node/12.21.0"
 }
